@@ -6,7 +6,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 
 # testing tkinter window
 
-
+# fisdisdufoiusjfiosdjgioujsiosgjoisdfjsoidufsdoifufudfoiufoifudoi
 def update_plot():
     ax.clear()
     x = np.linspace(0, 10, 100)
