@@ -4,6 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 
+# testing tkinter window
+
+
 def update_plot():
     ax.clear()
     x = np.linspace(0, 10, 100)
